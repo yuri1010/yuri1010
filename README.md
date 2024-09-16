@@ -1,7 +1,7 @@
-- 👋 Olá, meu nome é Yuri Marcon
-- 👀 Sou fascinado por resolução de problemas através de tecnologia.
-- 🌱 Acredito muito no aprendizado contínuo e compartilhamento de conhecimento.
-- 📫 Contato: yuri.erik.oliveira@gmail.com
+- 👋 Hello, my name is Yuri Marcon
+- 👀 I'm excited for solve problems through technology.
+- 🌱 I strongly believe in continuous learning and knowledge sharing.
+- 📫 Contact: yuri.erik.oliveira@gmail.com
 
 <!---
 yuri1010/yuri1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
